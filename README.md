@@ -19,3 +19,6 @@ resources.infosec.institute.com/19-extension-to-turn-google-chrome-into-penetrat
 Live HTTP Headers
 
 http://www.eurecom.fr/en/publication/4686/download/sec-publi-4686.pdf
+
+# Python Learning
+http://inventwithpython.com/
