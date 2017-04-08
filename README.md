@@ -1,4 +1,4 @@
-# Trash
+# Diary
 
 
 # How to become hacker
@@ -44,3 +44,34 @@ http://www.eurecom.fr/en/publication/4686/download/sec-publi-4686.pdf
 
 # Python Learning
 http://inventwithpython.com/
+
+
+# Play with Window
+http://www.fuzzysecurity.com/tutorials/16.html
+https://github.com/superkojiman/rfishell
+
+
+
+# Password Construction
+
+City
+District (Is living people are diverse)
+Province
+Country
+Support
+
+
+# Windows Hacking
+https://github.com/enigma0x3/Misc
+https://github.com/killswitch-GUI/PenTesting-Scripts
+https://github.com/enigma0x3/Generate-Macro
+
+# Linux Hacking
+https://github.com/huntergregal/mimipenguin
+https://0x00sec.org/t/kernel-rootkits-getting-your-hands-dirty/1485
+
+# Mobile Hacking
+https://github.com/akibsayyed/safeseven
+
+# Bypass anti-virus
+https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
