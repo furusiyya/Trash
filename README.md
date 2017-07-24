@@ -1,6 +1,5 @@
 # Diary
 
-
 # How to become hacker
 http://www.catb.org/esr/faqs/hacker-howto.html
 
